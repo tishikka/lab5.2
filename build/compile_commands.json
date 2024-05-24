@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/proga/lab5/lab5.2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\main.cpp.obj -c C:\\proga\\lab5\\lab5.2\\main.cpp",
+  "file": "C:\\proga\\lab5\\lab5.2\\main.cpp",
+  "output": "CMakeFiles\\multifile.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/proga/lab5/lab5.2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\delt.cpp.obj -c C:\\proga\\lab5\\lab5.2\\delt.cpp",
+  "file": "C:\\proga\\lab5\\lab5.2\\delt.cpp",
+  "output": "CMakeFiles\\multifile.dir\\delt.cpp.obj"
+}
+]
